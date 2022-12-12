@@ -1,10 +1,11 @@
 import random
 import math
 
+# addition substraction function
+
 
 def operationAS():
     signs = ['+', '-']
-    rdSign = random.choice(signs)
 
     counter = 0
 
